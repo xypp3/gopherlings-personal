@@ -22,7 +22,6 @@
 // you may uncomment the "I AM STILL GOING" to continue
 // solving the next exercises.
 
-// I AM STILL GOING
 
 package main
 
@@ -31,5 +30,5 @@ import "fmt"
 func main() {
 	// Knowing about the string type, modify
 	// the argument to fmt.Println to be a single string.
-	fmt.Println(hello world)
+	fmt.Println("hello world")
 }
